@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import { ReactComponent } from 'react';
 import imag from "./chahal1.jpg";
-import imag1 from './grad.jpg'
 import {Image,Row,Col,Container} from 'react-bootstrap';
 
 const Example = (props) => {
